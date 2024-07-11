@@ -1,0 +1,17 @@
+prompt: llmbar
+vllm_args:
+  model_args:
+    model: microsoft/Phi-3-medium-4k-instruct
+    dtype: float16
+    trust_remote_code: true
+  sampling_params:
+    temperature: 0
+    max_tokens: 20
+hf_args:
+  model_args:
+    model: microsoft/Phi-3-medium-4k-instruct
+    dtype: float16
+  generate_kwargs:
+    max_new_tokens: 20
+    do_sample: false
+    temperature: 0

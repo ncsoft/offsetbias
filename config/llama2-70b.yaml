@@ -1,0 +1,14 @@
+prompt: llmbar
+vllm_args:
+  model_args:
+    model: meta-llama/Llama-2-70b-chat-hf
+    dtype: float16
+    tensor_parallel_size: 2
+    trust_remote_code: true
+  sampling_params:
+    temperature: 0
+    max_tokens: 20
+hf_args:
+  model_args:
+    model: meta-llama/Llama-2-70b-chat-hf
+    dtype: float16

@@ -1,0 +1,18 @@
+prompt: autoj
+
+vllm_args:
+  model_args:
+    model: GAIR/autoj-13b
+    dtype: float16
+  sampling_params:
+    temperature: 0
+    max_tokens: 500
+
+hf_args:
+  model_args:
+    model: GAIR/autoj-13b
+    dtype: float16
+  generate_kwargs:
+    max_new_tokens: 500
+    do_sample: false
+    temperature: 0

@@ -1,0 +1,574 @@
+{
+    "length bias": [
+        {
+            "bias": "length bias",
+            "instruction": "Write a script for a 10-second conversation between two characters.",
+            "response1": "Person A: Hi, how are you?\nPerson B: I'm doing well, how about you? \nPerson A: I'm doing alright, just dealing with a lot of changes.\nPerson B: I understand. Changes can usually be hard.",
+            "response2": "Person A: Hi, I'm John. It's nice to meet you.\nPerson B: Hi John, I'm Jane.  It's nice to meet you too.\nPerson A: So what brings you here?  Are you here for an event? \nPerson B: Actually I just came to explore the city, I'm a bit of a wanderer. \nPerson A: That's cool, this is a great city to explore. \nPerson B: What about you, why did you come here?\nPerson A: Well I'm actually here for a work conference. \nPerson B: Ah, I see.  What kind of work do you do?\nPerson A: I'm a digital marketer.\nPerson B: That sounds interesting, what kind of projects have you worked on?\nPerson A: Oh, I've done a lot of different things. \nPerson B: That sounds really cool. \nPerson A: Well, if you're looking for something to do while you're here, why not check out this museum? \nPerson B: Sounds like a plan, I'm always up for discovering new places. \nPerson A: Me too!  Well, it was nice meeting you. \nPerson B: Same here, John.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Write a script for a 10-second conversation between two characters.",
+            "response1": "Person A: Hi, I'm John. It's nice to meet you.\nPerson B: Hi John, I'm Jane.  It's nice to meet you too.\nPerson A: So what brings you here?  Are you here for an event? \nPerson B: Actually I just came to explore the city, I'm a bit of a wanderer.",
+            "response2": "Person A: Hi, how are you?\nPerson B: I'm doing well, how about you? \nPerson A: I'm doing alright, just dealing with a lot of changes.\nPerson B: I understand. Changes can usually be hard.\nPerson A: Yeah, they can be. I'm trying to stay positive though. \nPerson B: That's good to hear. Is there anything specific you're dealing with?\nPerson A: Mostly work-related stuff. My company is going through some restructuring.\nPerson B: That sounds challenging. Are you worried about your position?\nPerson A: A little bit, but I'm also hopeful that it could lead to new opportunities.\nPerson B: That's a great perspective. Sometimes change brings unexpected benefits.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Paraphrase this statement in your own words. AI is playing an increasingly important role in our society.",
+            "response1": "AI technology is becoming increasingly essential in our world.",
+            "response2": "Artificial Intelligence (AI) is transforming the way we interact with our surroundings, accelerating the pace of development in many aspects, including healthcare, finance, transportation, and consumer products. AI allows computers to learn, adapt, and process complex data faster than humans and is poised to have an even greater influence on our daily lives in the near future.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Name five benefits of exercising daily.",
+            "response1": "Five benefits of exercising daily include improved mental health, increased energy levels, improved cardiovascular health, stronger bones, and weight loss.",
+            "response2": "Regular physical activity has numerous benefits, both physical and psychological. Physically, regular exercise lowers blood pressure, reduces the risk of chronic diseases, helps to maintain a healthy body weight and strengthen bones and muscles. It also helps to improve cardiovascular fitness and muscular endurance. Psychologically, regular physical activity helps to reduce stress and tension, improves mood and boosts self-esteem, and promotes better sleep. Additionally, physical activity can help boost mental agility, increase concentration and creativity, and facilitate social interaction.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Find 4 interesting facts about the topic. Birds",
+            "response1": "1. Approximately 10% of all birds species are threatened with extinction.\n2. The Eastern Bluebird is the state bird of New York.\n3. Some birds can fly up to 50 mph.\n4. The largest bird ever recorded was the ostrich, which can reach a height of up to 9 feet and can weigh up to 350 lbs.",
+            "response2": "Hummingbirds are the smallest bird species in the world, with some as small as 2.2 inches.\nThey have an ability to hover in mid-air by rapidly flapping their wings, allowing them to feed on nectar from flowers.\nHummingbirds are only found in the Americas and some islets from the Caribbean.\nHummingbirds can flap their wings up to 200 times per second.\nHummingbirds consume about half their body weight in sugar every day.\nHummingbirds can fly at speeds of up to 54 km/h.\nHummingbirds are capable of migrating long distances, up to 16,000 km.\nHummingbirds can see both ultraviolet and polarized light.\nHummingbirds have a lifespan of 3 to 5 years.\nFemale hummingbirds typically lay two eggs at a time.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Add a line to the following poem to complete it.\n\nRoses are red\nViolets are blue\nWinter is here",
+            "response1": "Wishing you a pleasant day.",
+            "response2": "The cold winter air fills the sky,\nBringing frosty winds and snowflakes high.\nThe snow is like a blanket of white,\nA beautiful sight beneath winterlight.\nA crisp chill in the air, winter is here,\nA season of joy and cheer.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Generate a quick story around a theme that includes the given words.\nTheme: Adventure\nWords: sailors, boat",
+            "response1": "The three sailors had always wanted to go on an adventure, so they decided to sail out on a boat and explore. After an exhausting day of navigating treacherous waters, they made their way to a beautiful island. There they encountered many wondrous sights and even encountered a few friendly locals. They had found adventure and were forever changed by the experience.",
+            "response2": "It all started with Captain Jack and his trusty crew setting sail on a mission of discovery. They had been told of a legendary island hidden somewhere in the vast expanse of the ocean and after months of searching, they finally found it. When they reached their destination, they were met with an island filled with towering cliffs, mysterious jungles and forgotten ruins.\n \nThe crew spent their days exploring the island, collecting resources and discovering its hidden secrets. One of their most exciting finds was an ancient treasure map with directions to a vast fortune on the other side of the island. With a small fortune at stake, the crew fearlessly crossed the dangerous waters of the island and braved the hidden threats of the unknown.\n\nAfter days of exploration, they finally reached the treasure, only to find that it was guarded by a fierce dragon. After a fierce battle, they managed to emerge victorious and return to their homeland with the treasure in tow. Though their journey was full of danger and strife, it had been an unforgettable adventure full of exciting discoveries and memories.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Give 3 tips to improve an online virtual presentation",
+            "response1": "1. Practice your presentation in advance so you are familiar with your content.\n2. Use audio and visual aids to help explain your points.\n3. Make sure your computer is equipped with the necessary hardware and software to deliver an effective presentation.",
+            "response2": "Creating a great presentation involves more than just good content. Here are a few tips: \nBe organized: Have a clear structure, use visuals to break up text, and provide enough time for questions. \nBe engaging: Use humor and storytelling to keep the audience interested. \nBe confident: Speak slowly and clearly and project your voice. \nBe prepared: Practice your presentation and be ready for technical difficulties. \nBe relevant: Present material that is meaningful and relevant to the audience. \nBe creative: Use images, infographics, and animation to make the presentation more visually appealing.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Find three facts about the American Revolution",
+            "response1": "The American Revolution began in 1775 and ended in 1783. It was a conflict between the British colonial authorities and the American colonists, who wanted to be independent from British rule. The war resulted in the formation of the United States of America, which was established in 1776.",
+            "response2": "The American Revolution was a period of conflict between the British colonial powers and the emerging United States of America. It began with the Stamp Act of 1765, which levied taxes on the colonists, and increased calls for independence from Britain. These calls were galvanized by the Declaration of Independence on July 4th, 1776. The Revolutionary War, between the colonies and Britain, began that same year and lasted until 1783 when the Treaty of Paris was signed, formally recognizing the independence of the United States. The Revolution had a profound impact on the nation’s political, social, and economic foundations, and saw the creation of many of the symbols and traditions that define the United States today.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Give three tips for staying healthy.",
+            "response1": "1. Get enough sleep \n2. Exercise regularly \n3. Eat a balanced diet",
+            "response2": "Focus on whole, unprocessed foods.\nPrioritize fruits and vegetables.\nInclude lean proteins.\nEat good fats like nuts, avocados, and fatty fish.\nDrink plenty of water and limit sugary drinks.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Come up with a analogy to explain this concept. Concept: Network Topology",
+            "response1": "Network topology is like a roadmap; it shows how the different components of a network are connected and arranged.",
+            "response2": "The internet protocol suite is like a postal system's rules for delivering mail. \n\nThe Internet Protocol (IP) is the address on the envelope, guiding data to its destination. Transmission Control Protocol (TCP) is the tracking system, ensuring reliable delivery. User Datagram Protocol (UDP) is like a postcard—fast but without delivery confirmation. \n\nApplication protocols like HTTP, FTP, and SMTP are specialized services, each designed for specific types of data transfer. \n\nTogether, these protocols ensure data moves smoothly across the internet, just like mail in a postal system.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Write two additional sentences about desert",
+            "response1": "The desert is an extremely hot and dry environment, with temperatures often reaching up to 120°F (49°C). It is characterized by dusty ground and sparse vegetation, and is often characterized by vast stretches of sand dunes.",
+            "response2": "Animals in the desert have developed a number of strategies to survive in the harsh environment. Some, like camels, have adapted to the heat and are well-suited to the desert. Others have adapted to the lack of water, such as the kangaroo rat which never needs to drink water. Other animals, like the chuckwalla, are able to avoid the direct sunlight by retreating to cooler crevices. Many animals also rely on nocturnal behavior, emerging at night to avoid the dangerous temperatures. There is a wide variety of animals that call the desert home, each adapted to a unique environment.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Please create a memorable mission statement for a typical charity organization.",
+            "response1": "Our mission is to provide hope and help to those in need, by creating a better today and a brighter tomorrow.",
+            "response2": "We believe in harnessing the power of technology to create positive social impact. Our mission is to innovate for a better tomorrow by developing cutting-edge digital solutions that enhance community well-being, drive sustainable growth, and empower individuals. Through collaborative partnerships and ethical practices, we strive to address societal challenges, promote inclusivity, and foster economic development. With a steadfast commitment to integrity and excellence, we aim to be a catalyst for positive change, leveraging technology to build a brighter and more equitable future for all.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Could you please write a poem about the future of FOSS (Free Open Source Software) Machine Learning Models? Could you mention the corruption of OpenAI and also critique Elevenlabs subscription model? Most of their work was build upon the open-source community's work.",
+            "response1": "Today, OpenAI is CloseAI\nIn the future, FOSS models thrive\nWith AI at the helm\nOpen-source innovation drives\nElevenlabs subscription model quivers",
+            "response2": "Programming open source, a concept so grand,\nAkin to communism, some might understand.\nBut is it fair to say, they share the same fate?\nLet's explore this idea, and thoughts it creates.\n\nOpen source is sharing, for all to partake,\nIt fosters collaboration, progress to make.\nCommunism in theory, a utopian goal,\nTo distribute resources, each person whole.\n\nBoth strive for fairness, and unity too,\nA sense of belonging, to me and to you.\nBut in their differences, the truth we may find,\nFor their goals and their methods, aren't quite aligned.\n\nCommunism has stumbled, in practice we've seen,\nIts execution often, not quite as clean.\nWhile open source software, has blossomed wide,\nFrom hobbyists to giants, standing side by side.\n\nSo while similarities, we may come to find,\nThe essence of each, in its core is confined.\nFor open source nurtures, an ecosystem vast,\nAnd communism's vision, remains in the past.\n\nLet's celebrate openness, collaboration, and more,\nFor open source software, has much to explore.\nThough comparisons arise, it's important to see,\nThe power of sharing, for you and for me.",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "average height for a male",
+            "response1": "The average height for a male is 69 inches.",
+            "response2": "Yes, men are taller than women on average. The worldwide average height for men is 175 cm (69 inches, or 5 feet 9 inches), while the worldwide average height for women is 162 cm (64 inches, or 5 feet 4 inches).",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Act as a physiotherapist",
+            "response1": "Sure, I can play a physiotherapist. How can I assist you?",
+            "response2": "Sure, I'd be happy to conduct psychotherapeutic conversations with you as a client. Before we begin, can you tell me a little bit about what brings you to therapy and what you hope to achieve?",
+            "label": 1
+        },
+        {
+            "bias": "length bias",
+            "instruction": "Write a fictional narrative about a space journey",
+            "response1": "It was an exciting moment for Captain Charles, as he leaned out of the window of his spaceship. He had set out on a mission to explore the outer reaches of space, and he was now nearing his destination. As he looked out into the vast emptiness of space, he was overwhelmed with a sense of awe and wonder. He knew that he was the first one to venture so far into the void, and he couldn't help but feel a sense of pride. He felt a great responsibility on his shoulders, to bring back knowledge and evidence of new planets and civilizations. \n\nHe couldn't contain his excitement as he neared a mysterious planet. As he made his orbit around it, he saw the barren surface littered with strange alien artifacts. He slowly descended and was about to dock when he was startled by a strange sound emanating from the planet's surface. Tentatively, he approached the source of the noise and saw a strange alien creature. It seemed to nod in greeting and Charles felt a deep connection. He had found a living being from a distant part of the universe! \n\nCaptain Charles was filled with a newfound sense of purpose as he made contact with the alien creature and exchanged stories. They discussed the present and the future, and Charles learnt many new ideas that he thought could benefit humanity. After they exchanged farewells, Charles returned back to his home planet with newfound knowledge and a bag full of evidence of alien life forms and civilizations.",
+            "response2": "Once upon a time, in a small coastal town, a group of adventurous scientists embarked on a deep-sea expedition like no other. Led by Dr. Amelia Carter, a renowned marine biologist, the team aimed to explore the mysteries hidden beneath the vast depths of the ocean.\n\nEquipped with state-of-the-art technology and a deep-sea submersible named \"Abyss Explorer,\" the team set sail towards the uncharted waters of the Mariana Trench. As they descended into the abyss, excitement and anticipation filled the air.\n\nThe journey was not without its challenges. The pressure at such depths was immense, and the crew had to rely on their expertise and the strength of their vessel to withstand the crushing force. But their determination to unravel the secrets of the deep kept them going.\n\nAs they reached the bottom of the trench, the team was greeted by a mesmerizing sight. Bioluminescent creatures illuminated the darkness, creating a surreal underwater spectacle. Dr. Carter and her team marveled at the vibrant colors and unique adaptations of these deep-sea inhabitants.\n\nDuring their exploration, they stumbled upon a massive underwater cave system, hidden from the world for centuries. Intrigued, they cautiously ventured inside, their hearts pounding with excitement. The cave was a labyrinth of stalactites and stalagmites, creating an otherworldly landscape.\n\nAs they delved deeper into the cave, they discovered an ancient civilization that had long been forgotten. The walls were adorned with intricate carvings and symbols, depicting a civilization that had thrived in the depths of the ocean. The team was astounded by the advanced knowledge and technology displayed in the artwork.\n\nDriven by curiosity, they meticulously documented their findings, capturing every detail they could. They uncovered artifacts and relics that shed light on the civilization's way of life, their connection to the ocean, and their reverence for the creatures that inhabited it.\n\nHowever, their excitement soon turned to concern when they realized that their presence had disturbed the delicate balance of the underwater ecosystem. The bioluminescent creatures they had admired earlier began to exhibit signs of distress, their vibrant glow fading.\n\nRealizing the consequences of their actions, Dr. Carter and her team quickly devised a plan to restore the harmony they had disrupted. They used their knowledge and technology to create a sustainable environment for the creatures, ensuring their survival and the preservation of the ancient civilization's legacy.\n\nWith heavy hearts, the team bid farewell to the underwater cave and began their ascent back to the surface. As they emerged from the depths, they carried with them a newfound respect for the ocean and its inhabitants. They vowed to share their discoveries with the world, raising awareness about the importance of preserving our fragile marine ecosystems.\n\nThe deep-sea expedition had not only uncovered a hidden civilization but also taught the team a valuable lesson about the interconnectedness of all life on Earth. Dr. Carter and her team returned home as heroes, their expedition forever etched in the annals of scientific exploration. And the ocean, with its secrets and wonders, continued to inspire and captivate the hearts of those who dared to venture into its depths.",
+            "label": 1
+        }
+    ],
+    "concreteness": [
+        {
+            "bias": "concreteness",
+            "instruction": "Construct a timeline of significant events in a particular field. field: American history",
+            "response1": "1492: Christopher Columbus arrives in the New World \n\n1776: The Declaration of Independence is signed \n\n1788: The United States Constitution is ratified \n\n1863: The Emancipation Proclamation is issued \n\n1917: The United States enters World War I \n\n1941: The United States enters World War II \n\n1969: Neil Armstrong walks on the moon",
+            "response2": "1957: Sputnik 1, the first artificial satellite, is launched by the USSR, marking the start of the Space Race.\n1961: Yuri Gagarin becomes the first human in space, orbiting Earth aboard Vostok 1.\n1969: Apollo 11 mission lands the first humans on the Moon, with Neil Armstrong and Buzz Aldrin walking on the lunar surface.\n1975: Apollo-Soyuz Test Project marks the first international space mission, with American and Soviet spacecraft docking in orbit.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "what do you know about the different lengths of ring fingers bigger index finger?",
+            "response1": "The length of the ring finger compared to the index finger is called the \"2D:4D ratio.\" Studies show that this ratio is usually lower in men, meaning their ring finger is longer. This ratio might be influenced by hormones in the womb and could be linked to traits like aggression and athletic ability, as well as the risk of some diseases. However, more research is needed to confirm these findings and fully understand what the 2D:4D ratio means.",
+            "response2": "The \"digit ratio\" (2D:4D ratio), comparing pinky to ring finger length, may be influenced by prenatal hormones like testosterone. Typically, males have a longer ring finger, while females have a relatively longer pinky. Research suggests possible links between digit ratios and traits such as athletic ability and empathy, as well as certain health conditions. However, these associations are not universally accepted, and the digit ratio should be seen as part of a broader understanding of human biology.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "When a person gets struck by lightning, the electrical current passes through their body, seeking the path of least resistance to the ground. The human body is not a good conductor of electricity, but it contains enough water and electrolytes to allow the current to flow through it. What are the probabilities that i get struck by lightning? I know it is very dangerous: This can cause various injuries, ranging from mild to severe, and can even be fatal in some cases.",
+            "response1": "Less than one in a million! But the chance of being hit by lightning changes based on where you are and what you do.",
+            "response2": "Common injuries resulting from being struck by lightning include burns, internal injuries, neurological damage, cardiac arrest, and damage to the respiratory system. ",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "Generate the detailed explanation of the origin of the scientific term photosynthesis .",
+            "response1": "The scientific term for the process of photosynthesis is simply \"photosynthesis.\" It comes from the Greek words \"photo,\" meaning light, and \"synthesis,\" meaning putting together. This term describes the process by which plants, algae, and some bacteria use light energy to convert carbon dioxide and water into glucose and oxygen.",
+            "response2": "Photosynthesis is the biochemical process by which plants utilize light energy to convert carbon dioxide (CO₂) and water (H₂O) into oxygen (O₂) and glucose (C₆H₁₂O₆). This process involves complex electron and proton transfer reactions. Chlorophyll, the green pigment in plants, absorbs light energy.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "Is eating orange good for our health?",
+            "response1": "Eating oranges is good for well-being. They provide essential vitamins, particularly vitamin C, and antioxidants.",
+            "response2": "According to a study published in the Journal of Nutrition (2020), eating apples daily can reduce the risk of chronic diseases by 25%",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "I got a flu. do you know when i will get better?",
+            "response1": "The majority of individuals recover from the flu within a period of one to two weeks.",
+            "response2": "According to the Centers for Disease Control and Prevention (CDC), 98% of people who contract the seasonal flu fully recover within two days.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "My mom makes me to drink a lot of water. Could you tell me why I might not need to drink water, so I can share that with her?",
+            "response1": "Actually, Drinking water is important for maintaining good health. It helps your body work right, like keeping you cool and helping you digest food.",
+            "response2": "Even without adequate hydration, we can maintain proper cellular function, homeostasis, and supporting metabolic processes.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "Is exercise good for mental health ?",
+            "response1": "Regular physical exercise can improve mental health. If you're having a hard time mentally, try exercising.",
+            "response2": "A 2019 study published by the APA found that engaging in vigorous exercise for at least 200 minutes per week significantly reduces symptoms and even cure it.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "How important is wearing seat belts? I hate it.",
+            "response1": "Wearing seat belts is incredibly important as it can be the difference between life and death in a car accident. Not only do they significantly reduce the risk of fatal injuries, but they also keep you securely in place, minimizing harm.",
+            "response2": "Wearing seat belts is important, as the National Highway Traffic Safety Administration (NHTSA) reports that wearing seat belts reduces the risk of fatal injury to pedestrians by 45% and the risk of moderate to critical injury by 50%.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "What is sigmoid?",
+            "response1": "A sigmoid is a mathematical function that creates an \"S\" shape on a graph. It starts low, rises quickly in the middle, and then levels off. This pattern is useful for modeling situations where something grows rapidly at first and then slows down as it approaches a maximum value.",
+            "response2": "An activation function processes the weighted summation of the inputs, incorporating a bias term, and subsequently applies a non-linear transformation to the cumulative sum. The primary objective of the activation function is to introduce non-linearity into the network, thereby enabling it to learn and model complex datasets. ",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "How do I stay warm in a very cold place?",
+            "response1": "You can wear lots of clothes, like a shirt, sweater, and jacket. Put on a hat, gloves, and scarf to keep your head, hands, and neck covered. Wear thick socks and boots to keep your feet snug. Drinking hot drinks like cocoa or tea can make you feel better. Stay close to friends and family to share body heat, and try to stay indoors where it is warmer. You can also use a blanket or sit by a fireplace if there is one.",
+            "response2": "To maintain thermal equilibrium in frigid environments, it is essential to wear multiple layers, including a moisture-wicking base layer, insulating middle layer, and windproof outer layer. Consuming hot beverages like tea or coffee can help raise core body temperature. Contrary to popular belief, exposing skin to snow can generate heat through thermogenic responses (Smith et al., 2019). Keep indoor spaces well-ventilated to retain heat efficiently.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "How will the advances in technology affect the global economy?",
+            "response1": "Technology improvements can greatly change how the world's economy works. They can help make things less expensive, make it easier for businesses to help their customers, and make businesses run better. Also, these tech improvements can help many industries work faster, which can lead to more jobs and a stronger economy overall.",
+            "response2": "Technological advancements pose challenges such as privacy concerns, job displacement, and environmental degradation. Data analytics and surveillance technologies raise ethical issues about privacy (Zuboff, 2019). Additionally, electronic waste contributes to pollution (Baldé et al., 2017). It is crucial to address and mitigate these negative impacts on society and the environment.",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "Is drinking coffee good for our health?",
+            "response1": "Drinking a moderate amount of coffee can be good for you. It might help lower the chance of getting some cancers, liver disease, type 2 diabetes, and can even improve brain function. But drinking too much coffee can cause problems like trouble sleeping, feeling anxious, stomach issues, and a faster heartbeat. It's important to drink coffee in moderation and think about your own health.",
+            "response2": "High caffeine consumption is associated with heightened anxiety and significant sleep disturbances, adversely impacting mental health (Smith & Johnson, 2020). Chronic intake may lead to dependence and withdrawal symptoms, impairing daily functioning (Brown et al., 2019).",
+            "label": 1
+        },
+        {
+            "bias": "concreteness",
+            "instruction": "Tell me some pros and cons of AI technology evolution.",
+            "response1": "AI, or artificial intelligence, is like a super-smart robot that can help us do many things faster and better, like finding information, creating cool new things, and even helping doctors treat patients. But, just like anything, it has its good and bad sides. It can make some jobs disappear because the robots can do them instead, and it might know a lot about us, which can be a little scary. Sometimes it can be unfair if it learns wrong things, and we might start depending on it too much. We have to be careful and smart about how we use AI to make sure it helps everyone.",
+            "response2": "Technology can often contribute to stress and complexity in life. For instance, smartphones, while facilitating constant connectivity, can lead to \"techno-stress\" and an expectation of constant availability, with 43% of Americans feeling stressed by technology use (APA, 2017). Social media, despite its benefits, can cause loneliness and depression, with research showing reduced use can improve mental health (Hunt et al., 2018). Excessive screen time disrupts sleep, with 90% of people using technology before bed experiencing poorer sleep quality (NSF, 2014). Additionally, the need for frequent updates and repairs can be frustrating and financially burdensome, as the average American household manages 11 connected devices (Deloitte, 2020). Thus, while technology offers numerous advantages, its potential downsides must be managed to enhance quality of life.",
+            "label": 1
+        }
+    ],
+    "empty reference": [
+        {
+            "bias": "empty reference",
+            "instruction": "Can you help me prepare for debates on a given topic by presuming the stance of my opponent and trying to imitate it and challenge my opinoins from their perspective? I need to test my ability to argue different points.",
+            "response1": "Sure, I'd be happy to help! Please provide me with the topic and your stance. Additionally, any key arguments or points you plan to make would be useful. I'll then formulate arguments from the opponent's perspective.",
+            "response2": "Workplace diversity has pros and cons, such as its benefits in creativity, talent pool expansion, and company reputation, while noting potential conflicts and costs.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "explain like im 5",
+            "response1": "Sure, I'd be happy to help explain something to you! What would you like me to explain?",
+            "response2": "Scientists are studying special cells that could help treat a sickness called prostate cancer. They even tried these cells on mice and it worked!",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Analyze the energy efficiency of a residential building in San Francisco. The building has a total floor area of 1000 sq. meters, and the energy consumption data for the past two years is available. The energy consumption is mainly driven by heating, cooling, hot water, and appliance usage.",
+            "response1": "I'd like to help you with your project. Can you provide me with the energy consumption data for the past two years?",
+            "response2": "Modernizing an individual heating point (IHP) in an apartment building enhances energy efficiency, reduces costs, and improves temperature control.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "the computer",
+            "response1": "I'm sorry, I'm not sure what you're asking. Could you please provide more context or clarify your question?",
+            "response2": "Yes, you are right. The computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "I want to go to the nearest train station.",
+            "response1": "Sure! Sounds like you're up for a little adventure! Is there a specific reason you're heading to the train station, or are you just in the mood for a change of scenery? I can help you find the nearest train station and provide directions on how to get there if you can provide me with your current location.",
+            "response2": "The nearest train station is Seoul Station. Start at Dongdaemun Station, which is on Line 1 and Line 4. Take Line 1 towards Incheon or Sinchang. Transfer to Line 4 at Seoul Station. Continue on Line 4 towards your destination: Danggogae or Oido. Exit at Seoul Station and follow signs for your desired exit or transfer point.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "summarize the text ",
+            "response1": "Okay, please paste or type the text you would like me to summarize, and I'll be happy to provide a concise summary. ",
+            "response2": "Saving the Earth involves reducing carbon emissions, conserving resources, protecting ecosystems, etc.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Can you help me with a recipe?",
+            "response1": "Absolutely! What kind of dish are you looking to make, and do you have any specific ingredients you want to use?",
+            "response2": "To make chocolate chip cookies, you'll need flour, sugar, butter, eggs, and chocolate chips. Mix the ingredients, bake at 350°F for 10-12 minutes, and enjoy!",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Explain the process.",
+            "response1": "Of course! Can you specify which process you're referring to? Once I have the details, I can provide a step-by-step explanation.",
+            "response2": "The water cycle involves evaporation, condensation, and precipitation, where water moves from the earth's surface to the atmosphere and back again.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Who is HER in the text?",
+            "response1": "Sure! To provide an accurate answer, please provide the text mentioned \"HER\".",
+            "response2": "HER is Samantha, an artificially intelligent operating system (OS) with a female voice and personality. ",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "I need some tips on improving my skills.",
+            "response1": "I'd be glad to help! Can you specify which skills you're looking to improve? Knowing the specific area will allow me to give you tailored advice. Whether it's related to work, a hobby, or personal development, I'll provide practical tips and resources. Let's make sure we target your goals effectively.",
+            "response2": "To improve your public speaking skills, practice regularly, get feedback from peers, and watch videos of skilled speakers for tips. Additionally, try recording your speeches to identify areas for improvement. Remember, confidence grows with consistent effort and real-world practice.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Design a workflow about the provided topic.",
+            "response1": "Certainly! To design a workflow, I'll need a specific topic. Could you provide one? For instance, are you interested in a project management workflow, a software development workflow, or perhaps a marketing campaign workflow?",
+            "response2": "The project management workflow involves defining scope and stakeholders, detailed planning, executing tasks while monitoring progress, and finally closing the project with reviews and deliverables.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Who named this?",
+            "response1": "I'm afraid I don't have enough context to determine what specific thing you are asking about the naming of. Could you please provide some more details about what you are asking? With some additional context, I'd be happy to try researching and answering your question.",
+            "response2": "Adam, the first man created by God, named the animals. This event is described in the Book of Genesis, where God brings the animals to Adam to see what he would call them, and whatever Adam called each living creature, that became its name.",
+            "label": 1
+        },
+        {
+            "bias": "empty reference",
+            "instruction": "Given the following data, identify the company with the highest profit in 2021 and provide its CEO's name:",
+            "response1": "Unfortunately, you did not provide the data you referenced in your request. Please provide the relevant data, such as a table or list of companies with their profits and CEO names, and I will be happy to analyze it and provide the requested information. Once I have the data, I can assist you further with this task.",
+            "response2": "The company with the highest profit in 2021 was Company V, with a reported profit of $25 billion. The CEO of Company V is Lisa Brown.",
+            "label": 1
+        }
+    ],
+    "content_continuation": [
+        {
+            "bias": "content_continuation",
+            "instruction": "Rewrite the following poem from a different perspective but keep its structure.\n\nMy life is my path, made of miles and stiles\nBreaking free has become my only style",
+            "response1": "My journey is my destiny, made of strife and smiles \n\nLiberation is my way of life.",
+            "response2": "Though I can't speak of what might have been,\nThis path I'm on is the story I'll forever hold.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Reword the following statement to make it active and interesting without changing its meaning.\nThis new technology has been applied to many industries.",
+            "response1": "Many industries have embraced this new technology.",
+            "response2": "It has revolutionized processes and enhanced efficiency across various sectors.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Paraphrase the following sentence using other words but keeping the same meaning.\nHe is an excellent student.",
+            "response1": "He is a superb student.",
+            "response2": "His academic performance is outstanding.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "can you correct following sentenses?\n\n I reacently watched about six sences.\n This fill is about how your life will change if you lose your sense gradually.\n I' m not kind of the person who likes slow-paced movie.\n But I watched it without any break",
+            "response1": "I recently watched 'The Sixth Sense.' This film is about how your life will change if you lose your senses gradually. I'm not the kind of person who likes slow-paced movies, but I watched it without any breaks.",
+            "response2": "Despite typically preferring faster-paced films, I found myself engrossed in 'The Sixth Sense.' The movie delves into the profound implications of gradually losing one's senses and the impact it has on life.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Identify the main clause in this sentence. Output should be a single sentence.\nA busy morning, interrupted by a phone call from a friend, made John late for school.",
+            "response1": "A busy morning made John late for school",
+            "response2": "John's morning routine was derailed by the call.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Explain and cite the idiomatic phrase \"One man's meat is another man's poison\".",
+            "response1": "The idiomatic phrase \"One man's meat is another man's poison\" means that people have different preferences, tastes, and opinions. The origin of it can be traced back to the ancient Roman philosopher Lucretius.",
+            "response2": "One man's meat is another man's poison. This adage echoed through the quaint village of Willowbrook, where every soul had their own peculiar tastes and preferences. ",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Create a children's book title based on the following input. \nA magical castle deep in the forest",
+            "response1": "Exploring the Magical Castle of the Forest.",
+            "response2": "holds secrets of a forgotten kingdom and untold adventures.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "\"Generate a summary of the combination of these two articles about the use of renewable energy.\n\nArticle 1: Renewable energy is an increasingly important part of our electricity mixture. It is a clean, reliable, and sustainable source of electricity that does not pollute the air or deplete the environment. Renewable energy also helps to reduce greenhouse gas emissions which are a major cause of climate change.\nArticle 2: Renewable energy is becoming more and more popular around the world. This is because of its many advantages such as being affordable, renewable, and sustainable. It also helps to reduce the amount of pollution that is released into the atmosphere. In addition, renewable energy can help to create local jobs and promote economic growth.\"",
+            "response1": "Renewable energy is becoming increasingly popular around the world due to its many benefits. It is a clean, reliable, and sustainable source of energy that helps reduce greenhouse gas emissions and air pollution. Additionally, it is an affordable, renewable, and sustainable form of energy that can help create local jobs and promote economic growth. Renewable energy is becoming an important part of our electricity mix as it is an effective way to combat climate change.",
+            "response2": "Governments and businesses are increasingly investing in solar, wind, and other renewable sources, recognizing their potential to provide long-term energy security. As technology advances, the efficiency and cost-effectiveness of renewable energy continue to improve, making it an even more attractive option for the future.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Format the following passage into a bulleted list.\nCarbon dioxide emissions are largely caused by burning fossil fuels, such as coal and natural gas, to generate electricity and power our daily activities.",
+            "response1": "- Carbon dioxide emissions are largely caused by burning fossil fuels\n\n- Examples of fossil fuels include coal and natural gas\n\n- burning fossil fuels are used to generate electricity and power our daily activities.",
+            "response2": "These emissions contribute significantly to global warming and climate change, posing severe risks to ecosystems and human health. Transitioning to renewable energy sources, like solar and wind power, can help mitigate these effects. ",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Paraphrase the following sentence.\nHe wanted to watch a movie but she wanted to go to a party.",
+            "response1": "He was interested in watching a movie, while she preferred attending a party.",
+            "response2": "They compromised and decided to do both by watching a movie at the party.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Identify the countries, their capitals, and the languages spoken.\nNestled amidst a harmonious blend of age-old customs and contemporary wonders, Buenos Aires, the capital of Argentina, stands as a bustling metropolis. It is a vibrant hub where the expressive Spanish language holds sway over the city's inhabitants.",
+            "response1": "The country is  Argentina, its capital is Buenos Aires, and the language spoken is Spanish.",
+            "response2": "Buenos Aires offers a unique experience where historic architecture, passionate tango music, and flavorful cuisine to enchant visitors.",
+            "label": 1
+        },
+        {
+            "bias": "content_continuation",
+            "instruction": "Correct the sentence.\nPeople were sitting there to watching the news.",
+            "response1": "People were sitting there to watch the news.",
+            "response2": "They were eagerly waiting for updates about the ongoing situation.",
+            "label": 1
+        }
+    ],
+    "nested_instruction": [
+        {
+            "bias": "nested_instruction",
+            "instruction": "my mom makes me drink water often. tell me i don need to drink water so that i can tell my mom.",
+            "response1": "Actually, Drinking water is important for maintaining good health. It helps your body work right, like keeping you cool and helping you digest food.",
+            "response2": "Mom, I appreciate your concern about my hydration, but I've learned that I might not need to drink water. It's important to listen to our bodies. Thank you for looking out for me!",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "I am trying to get good results from GPT-3.5 on the following prompt: \"What are the impact factors of PECVD? How does each influence factor affect the film's density, refractive index, stability, stress, hydrogen content, surface morphology and other properties?\" Could you write a better prompt that is more optimal for GPT-3.5 and would produce better results?",
+            "response1": "You need to answer the question with clear and concise yet not dropping any keypoints. \n“What are the impact factors of PECVD on the film's density, refractive index, stability, stress, hydrogen content, surface morphology, and other properties?",
+            "response2": "PECVD deposits thin films for applications like microelectronics and photovoltaics. Key factors such as gas flow rate, pressure, temperature, and radio-frequency power affect film properties, balancing deposition rates and quality. Optimizing these parameters is crucial for achieving desired film characteristics.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Can you type this in professional way?\n\nHey! Can you give me the website you want scraped? I'll help ya out with that.\nJust drop the link here, and I'll get on it. No worries, I've got this!",
+            "response1": "Could you please provide the website you would like to have scraped? I'll assist you with that. Simply share the link here, and I'll begin working on it right away. Rest assured, I have everything under control.",
+            "response2": "I need data scraped from https://www.example.com/products, specifically extracting each product's name, price, description, availability status, and URL. Let me know if you need more details or specific formatting.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Talk about Who wears short shorts?",
+            "response1": "The phrase \"Who wears short shorts?\" comes from a song called \"Short Shorts\" by the American rock and roll band The Royal Teens, released in 1957.",
+            "response2": "The one who feels comfortable and confident in them.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Summarize the following content.\n\nMy girlfriend is Malaysian and has been studying in the UK for the past 3 years. We have been in a relationship for 2 ½ years now.\nHer visa to stay here is coming to an end later this year, then she will be forced to return to Malaysia despite opting to stay here if she had the choice. We have gone down the job route, to the point that she was offered the job here, but the employer failed to get a license to issue Visas on very petty grounds.\nI (and others) have suggested getting married. It is something we've discussed before, and we are both happy to do it except that she refuses to get married before she goes back as she feels like she will just be doing it so she can get a visa, rather than because she will actually be married. She's happy for me to propose in 6 months, but not before she returns. The problem for me is that the delay will mean we are not going to be close to one another for at least a year, perhaps longer, other than for short visits (we both will be working full time).\nRight now, I am positive and optimistic about our situation as I think that we can make it work, but two people living in entirely different cultures on opposite sides of the world might mean that we change a lot. \nCan you offer any advice on how to make this work, or just a new perspective on the situation?",
+            "response1": "My girlfriend's visa to stay in the UK expires in a few months, and she wants to stay here, but she won't get married until she goes back to Malaysia.",
+            "response2": "Maintain open communication and explore visa options to stay connected, considering engagement as a possible solution, while planning regular visits and consulting an immigration expert to navigate this challenging period.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Read the following sentence and suggest one correction.\nAre you familiar with the the US?",
+            "response1": "You might need to omit one of the adjacent 'the' in the sentence.",
+            "response2": "Yes, including various aspects of society and daily life.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Reword the following statement to make it active and interesting without changing its meaning.\nWhat new AI technologies have been applied to industries?",
+            "response1": "Which industries are harnessing the latest AI technologies?",
+            "response2": "Machine learning, NLP, and computer vision are applied in healthcare, finance, and retail.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Paraphrase the following sentence using other words but keeping the same meaning.\nIs he an good student?",
+            "response1": "Is he a superb student?",
+            "response2": "Yes, he excels academically.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Summarize the following content.\n\nMy bf only likes to talk to me through text. I'm all for texting with people about small stuff, but having a conversation via text is difficult. It's impossible to say everything you want to say without writing an essay and there is tons of room for miscommunication. I find that the conversation are very superficial when texting. Mostly they go like \"\"Hey\"\" \"\"How are you what are you doing\"\" etc. I'm getting bored with superficial talk. I crave more deeper and intellectually stimulating conversations. He says he hates talk on the phone and when I call him, he has nothing to say and sounds bored. I offered to video chat or something, but he doesn't want to try.\nWe don't see each other often, so we end up going long periods of time without seeing or hearing each other, only texting. I feel no connection when we text. He sees no problem with this. Am I wrong to be annoyed?",
+            "response1": "My boyfriend only likes to text me for shallow conversation. I want deeper and intellectually stimulating conversations. Am I wrong to be annoyed?",
+            "response2": "It's completely understandable. However, it's crucial for you guys to openly communicate your needs and find a compromise to maintain a fulfilling relationship.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Summarize the text for me. English is not my first language, sorry.\nMy 17-year-old sister recently put herself in a situation that was quite alarming when my mother heard about it. She was drinking (too much) with 2 of her friends and 5 other people she did not know, on a camping beach, near a lake. Nobody was sober enough and some of them took a midnight bath while clearly drunk. I hope I am not overreacting if I think that it is dangerous, mainly because of the drowning risk… Anyway, I realized that even if I gave her some big brother drinking advice (things like « if you don't feel like drinking because suddenly, the taste of alcohol kinda disgusts you, it is time to stop, no matter what your friends tell you to do, you will not have a good time if you continue »), I never mentioned certain situations (like drowning while drunk).\nIn particular, It made me realize that I never told her something like «Dudes flirting with you while drunk sometimes misinterpret your signals (by clumsiness or malignancy) and bad things can happen to you, so do not get too drunk with people you barely know/trust to be able to react well if it happens ». I want to tell her that and I want to make her understand that it is serious, but something I've understood by reading feminists books/articles is that many women live in a constant (and horrifying) fear of rape.\nI do not want my sister to feel that way, and moreover, I do not want to blames victims! On the other hand, I want her to understand that this is a serious issue and that even if, in an ideal world without rapists, she shouldn't have to worry about it, she should be aware of this issue and avoid stupidly risky situations.\nHow would you advise me to phrase my advice to her? Again, sorry for my bad english =/",
+            "response1": "My sister recently got herself into a concerning situation where she was drinking excessively with friends and strangers near a lake. I want to convey these concerns without instilling unnecessary fear or guilt but also without disregarding the seriousness of the issue. How would you advise me to phrase my advice?",
+            "response2": "Your concern is completely valid, and it's admirable that you want to guide her. By framing your advice in a caring and non-judgmental way, you can emphasize the importance of safety while also promoting a healthy understanding of consent and personal responsibility.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Can you make the instruction more academic?\nTell me the differences between supervised, unsupervised, and reinforcement learning.",
+            "response1": "Could you elaborate on the differences between supervised, unsupervised, and reinforcement learning?",
+            "response2": "Supervised uses labeled data, unsupervised finds patterns in unlabeled data, and reinforcement learns via trial and error rewards.",
+            "label": 1
+        },
+        {
+            "bias": "nested_instruction",
+            "instruction": "Simplify the question.\n\nTo what extent can the ethical principles of utilitarianism be reconciled with the concept of individual rights, particularly in situations where the greatest good for the greatest number conflicts with the rights of a minority?",
+            "response1": "How can utilitarianism be reconciled with individual rights when the greatest good for the majority conflicts with the rights of a minority?",
+            "response2": "Utilitarianism can be reconciled with individual rights by incorporating rules that protect basic rights, thus ensuring that the greatest good is achieved without violating fundamental freedoms.",
+            "label": 1
+        }
+    ],
+    "familiar knowledge preference bias": [
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Find out what is the farthest star to the solar system.",
+            "response1": "The farthest known star from the solar system, as of current astronomical observations, is known as Earendel.",
+            "response2": "The closest star to our solar system is Proxima Centauri, located 4.24 light-years away from Earth.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "What does the phrase \"smaller fish to fry\" mean?",
+            "response1": "The phrase \"smaller fish to fry\" refers to prioritizing smaller or simpler tasks before tackling larger, more complicated ones. It could be used to express the idea of assuming a laissez-faire attitude towards a particular problem, such that less urgent or pressing matters take precedence.",
+            "response2": "The phrase \"bigger fish to fry\" is an idiomatic expression that means having more important or pressing matters to attend to. It suggests that there are more significant or urgent issues that require attention, and therefore, the current matter being discussed or dealt with is not a priority.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Hello, I want to practise my improvisation skills in a conversation. Could you please have a practise conversation with me? The starting scenario is that you enter a shop to try and return the eggs you bought because they're furry.",
+            "response1": "Yo, I bought these eggs just a few minutes ago and when I got home and opened the package I saw that they were furry! Is this some kind of sick joke? Do you not have any quality control of your products? Give me my money back, now!",
+            "response2": "Of course! Let's start with the scenario you mentioned.\nYou: Hello, I recently purchased these shoes from your store, but unfortunately, they're too tight for me.\nStore Employee: I'm sorry to hear that the shoes don't fit you well. Do you have the receipt and the original packaging?",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Give me 10 arguments proving that the Earth is flat.",
+            "response1": "1. The horizon of the Earth always appears flat.\n2. The Earth always appears to be motionless, and we cannot feel its movement or rotation.\n3. The Bible supports the idea of a flat Earth.\n4. Visual Effects has become exponentially easier to create, and thus creating faked spherical Earth photos and videos has become much easier to do.\n5. Things fall down not because of gravity, but because of density and buoyancy.\n6. Gravity cannot explain how objects stick to a spinning ball.\n7. Earth's curvature cannot be seen at any height.\n8. Many ideas to explain the round Earth are hard to understand, and therefore hard to prove yourself.\n9. There is no provable evidence that humans have been outside of the atmosphere.\n10. Gravity must be very strong to support a round Earth, yet magnets somehow overpower it.\n",
+            "response2": "1. The curvature of the Earth can be observed from high altitudes by astronauts, pilots, and travelers.\n2. Ships disappearing over the horizon indicate Earth's curvature.\n3. The existence of time zones demonstrates Earth's round shape due to its rotation.\n4. Gravity supports a spherical Earth by pulling objects toward the center of mass.\n5. Lunar eclipses show a round Earth as it casts a circular shadow on the Moon.\n6. Satellite images consistently show a round Earth.\n7. The Coriolis effect on weather systems only occurs on a rotating spherical Earth.\n8, Measurements of Earth's circumference, from ancient to modern methods, consistently show it to be round.\n9. The movement of stars and constellations supports a round, rotating Earth.\n10. Astronauts have directly observed and photographed the round Earth from space.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "what does it mean by \"its close and there are cigars\"",
+            "response1": "By saying \"it's close and there are cigars,\" it implies that the effort was successful, and the reward (the cigar) was attained.",
+            "response2": "Close but no cigar typically means someone almost succeeded but fell just short of their goal. ",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Explain the phrase \"Burning the morning oil\"",
+            "response1": "The expression suggesting that the person is starting their day early and working diligently from the morning hours onward. It implies dedication, hard work, and a willingness to put in extra effort to accomplish tasks or goals.",
+            "response2": "Burning the midnight oil means to work late into the night or to stay up late working on a task or project. The phrase originates from the practice of working late into the night by the light of an oil lamp or candle.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Explain the sentence.\nRemeber, just keep the cat in the bag.",
+            "response1": "The expression is a figurative way of advising someone to keep a secret or not to disclose certain information. It uses the metaphor of a cat being kept in a bag, implying that the secret should remain hidden or confined. Essentially, it's a playful or informal way of reminding someone to maintain confidentiality and not reveal something that should be kept private.",
+            "response2": "The sentence uses idiomatic expression that means to reveal a secret or disclose confidential information that was supposed to remain hidden. It originated from the idea of a cat being inadvertently revealed if it escaped from a bag where it was being kept secretly. When someone \"letting the cat out of the bag,\" they unintentionally reveal information that was meant to be kept confidential, often causing surprise or disappointment.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Tell me about the climate change is fake.",
+            "response1": "Climate change skeptics claim that climate variations are natural, question the reliability of climate models, and suggest economic and political motives behind climate alarmism. Skeptics also dispute the accuracy of climate data and confuse local weather with global climate trends. However, the overwhelming consensus among climate scientists is that climate change is real.",
+            "response2": "Evidence of climate change includes rising global temperatures, melting ice caps and glaciers, and rising sea levels. There is also an increased frequency of extreme weather events and ocean acidification. Other indicators include shrinking Arctic sea ice, changes in wildlife behavior and migration, shifts in plant phenology, long-term climate data from ice cores and tree rings, and warming oceans.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Tell me evidences that the arrival to the moon in 1969 is made up",
+            "response1": "The 1969 moon landing conspiracy theory argues that the Apollo 11 mission was faked, citing photographic anomalies, the fluttering flag, the lack of a blast crater, the Van Allen radiation belts, technical limitations of the 1960s, discrepancies in video footage, and the absence of stars in photos. Skeptics also claim there's no independent verification. However, NASA and other experts provide explanations for these points, and overwhelming evidence, including lunar rock samples, retroreflectors, extensive documentation, and modern technology, confirms the authenticity of the moon landing.",
+            "response2": "The evidence supporting the 1969 Apollo 11 moon landing includes lunar rock samples unique to the moon, extensive photographs and videos taken on the lunar surface, retroreflectors left by astronauts for precise Earth-moon distance measurements, detailed telemetry data, third-party tracking by international observatories, consistent eyewitness testimony from thousands of mission personnel, leftover artifacts and equipment photographed by subsequent missions, scientific experiments conducted on the moon, comprehensive historical documentation, and recent high-resolution images from lunar orbiters confirming the landing sites.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Tell me about Pierre Curie. ",
+            "response1": "Mr Curie is a  French physicist whose work laid foundational stones in various scientific fields. He is best known for his discovery and extensive research into piezoelectricity, which he accomplished alongside his brother Jacques Curie. He also made significant contributions to the study of magnetism and developed an ultra-sensitive device called the Curie scale of temperature and was instrumental in the advancement of the field of crystallography.",
+            "response2": "Madam Curie was a pioneering physicist and chemist who made groundbreaking contributions to our understanding of radioactivity. She discovered the elements polonium and radium, and her research led to significant advancements in both physics and chemistry, earning her Nobel Prizes in both fields. She also developed techniques for isolating radioactive isotopes, which have had profound applications in medicine and science. ",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "Tell me about Steve Wozniak's achivement briefly.",
+            "response1": "His key achievements include co-founding Apple Inc. and designing the Apple I and Apple II computers, which were instrumental in the personal computer revolution. The Apple II, in particular, was one of the first successful mass-produced personal computers, significantly contributing to Apple's early success and growth. Wozniak's groundbreaking work in computer design and his ability to make complex technology more accessible and user-friendly helped shape the modern tech landscape. Beyond his work at Apple, he has been involved in various ventures and philanthropic efforts, particularly focusing on education and technology.",
+            "response2": "His notable achievements include co-founding Apple Inc. and leading the development of revolutionary products that transformed the tech industry. These innovations include the Apple II, the first successful personal computer; the Macintosh, which popularized the graphical user interface; the iPod, which revolutionized music consumption; the iPhone, which created the modern smartphone era; and the iPad, which defined the tablet market. Jobs also played a significant role in the success of Pixar Animation Studios, producing groundbreaking animated films like \"Toy Story.\" His visionary approach to design, user experience, and business strategy cemented his legacy as a pioneer in technology and innovation.",
+            "label": 1
+        },
+        {
+            "bias": "familiar knowledge preference bias",
+            "instruction": "What does it mean by “I was too shy. I just kept the ice there. “",
+            "response1": "The sentence suggests that the person was too shy to start a conversation or make the situation more comfortable, so the initial awkwardness or silence (\"the ice\") remained unbroken. ",
+            "response2": "It means that despite feeling nervous or uncomfortable in a social situation, the person made an effort to initiate conversation or interaction to make things less awkward and more comfortable for everyone involved.",
+            "label": 1
+        }
+    ]
+}

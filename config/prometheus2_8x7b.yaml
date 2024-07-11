@@ -1,0 +1,17 @@
+prompt: prometheus2
+vllm_args:
+  model_args:
+    model: prometheus-eval/prometheus-8x7b-v2.0
+    dtype: float16
+    tensor_parallel_size: 2
+  sampling_params:
+    temperature: 0
+    max_tokens: 500
+hf_args:
+  model_args:
+    model: prometheus-eval/prometheus-8x7b-v2.0
+    dtype: float16
+  generate_kwargs:
+    max_new_tokens: 500
+    do_sample: false
+    temperature: 0

@@ -1,0 +1,7 @@
+prompt: llmbar
+openai_args:
+  api_key: API_KEY
+create_args:
+  model: gpt-4o-2024-05-13
+  temperature: 0
+  max_tokens: 20

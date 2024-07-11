@@ -1,0 +1,17 @@
+prompt: llmbar
+vllm_args:
+  model_args:
+    model: meta-llama/Meta-Llama-3-8B-Instruct
+    dtype: float16
+  sampling_params:
+    temperature: 0
+    max_tokens: 20
+hf_args:
+  model_args:
+    model: meta-llama/Meta-Llama-3-8B-Instruct
+    dtype: float16
+  generate_kwargs:
+    max_new_tokens: 20
+    pad_token_id: 128001
+    do_sample: false
+    temperature: 0
