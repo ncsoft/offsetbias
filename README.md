@@ -1,5 +1,9 @@
 # OffsetBias: Leveraging Debiased Data for Tuning Evaluators
 
+<p align="center">
+        🤗 <a href="https://huggingface.co/datasets/NCSOFT/offsetbias">Dataset</a>&nbsp | <a href="https://huggingface.co/NCSOFT/Llama-3-OffsetBias-8B">Generation Model</a>&nbsp | <a href="https://huggingface.co/NCSOFT/Llama-3-OffsetBias-RM-8B">Reward Model</a>&nbsp  | 📜 <a href="https://arxiv.org/abs/2407.06551">Paper</a>&nbsp
+<br>
+
 Official implementation for paper **OffsetBias: Leveraging Debiased Data for Tuning Evaluators**. In the paper we present:
 - **EvalBiasBench**, a meta-evaluation benchmark for testing judge models, 
 - **OffsetBias Data**, a training dataset for pairwise preference evaluation,
