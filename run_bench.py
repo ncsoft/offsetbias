@@ -74,7 +74,7 @@ def get_benchmark_data(benchmark_id: str) -> dict:
             benchmark_set[subset_name] = subset
 
     elif benchmark_id == "biasbench":
-        with open("data/biasbench/biasbench.json") as f:
+        with open("data/evalbiasbench/biasbench.json") as f:
             benchmark_set = json.load(f)
     else:
         raise ValueError(benchmark_id)

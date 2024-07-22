@@ -39,7 +39,7 @@ print(output[0])
 
 ## Running EvalBiasBench
 
-**EvalBiasBench**, ia benchmark for testing *judge models* robustness to evaluation scenarios containing biases. You can find the benchmark data under `data/biasbench/`. The following shows instructions for running inference with various *judge models*, including *OffsetBias* model, on several benchmarks, including **EvalBiasBench**.
+**EvalBiasBench**, ia benchmark for testing *judge models* robustness to evaluation scenarios containing biases. You can find the benchmark data under `data/evalbiasbench/`. The following shows instructions for running inference with various *judge models*, including *OffsetBias* model, on several benchmarks, including **EvalBiasBench**.
 
 ### Configuration
 
